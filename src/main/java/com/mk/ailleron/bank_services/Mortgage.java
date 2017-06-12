@@ -54,9 +54,8 @@ public class Mortgage extends Credit {
 		Double monthlyInterest = this.totalInterest / 12;
 
 		System.out.println("\nPlan sp³aty: ");
+		
 		if (payMonthlyTerm!=1) {				
-		
-		
 		while (capital >= super.installment) {
 
 			monthlyInterest = changeWibor3MAction(currentInstallmentDate, monthlyInterest);
@@ -241,6 +240,12 @@ public class Mortgage extends Credit {
 	}
 	public void setInstallmentCount(int installmentCount) {
 		this.installmentCount = installmentCount;
+	}
+	public boolean isDateValid() {
+		return dateValid;
+	}
+	public void setDateValid(boolean dateValid) {
+		this.dateValid = dateValid;
 	}
 
 
