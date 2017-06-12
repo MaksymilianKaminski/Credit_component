@@ -1,0 +1,6 @@
+com\mk\ailleron\bank_component\Bank.class
+com\mk\ailleron\bank_services\Credit.class
+com\mk\ailleron\bank_accounts\Borrower.class
+com\mk\ailleron\bank_services\CreditTools.class
+com\mk\ailleron\bank_services\Mortgage.class
+com\mk\ailleron\bank_accounts\BankClient.class
