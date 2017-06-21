@@ -24,6 +24,6 @@ Used technologies:
 - JUnit
 
 <h1>INFO</h1></br>
-Still extension for new tasks ...</br>
+Still extension to new tasks ...</br>
 </br>
 Kindly regards, Maksymilian Kamiński
