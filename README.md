@@ -19,3 +19,11 @@ Kredytobiorca chce co miesiąc nadpłacać kredyt hipoteczny stałą kwotą, kt�
 
 Komponent ma na celu zaplanować strategię spłaty kredytu, przy zmiennych działaniach kredytobiorcy (nadpłaty) oraz przy zmianach WIBOR3M. Komponent oblicza jak zmiany wpłyną na całkowity koszt zaciągnięcia kredytu.
 
+Used technologies:
+- Java 
+- JUnit
+
+<h1>INFO</h1></br>
+Still extension for new tasks ...</br>
+</br>
+Kindly regards, Maksymilian Kamiński
